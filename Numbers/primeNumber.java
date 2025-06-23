@@ -9,6 +9,8 @@ public class primeNumber {
         if(!sc.hasNextInt())
         {
           System.out.println("enter valid value!");
+          sc.close();
+          return;
         }
         int num = sc.nextInt();
         boolean isPrime = true;
