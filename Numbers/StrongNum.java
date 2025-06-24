@@ -55,3 +55,5 @@ public class StrongNum {
         return fact;
     }
 }
+
+// Strong number also called Krishnamurthy Number.
