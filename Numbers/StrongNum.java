@@ -36,7 +36,7 @@ public class StrongNum {
             copyNum /= 10;
         }
 
-        if (num == factTotal) {
+        if (num== factTotal) {
             System.out.println(num + " is a Strong Number!");
         } else {
             System.out.println(num + " is not a Strong Number.");
