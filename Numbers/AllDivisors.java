@@ -8,7 +8,7 @@ public class AllDivisors {
 
         if (!sc.hasNextLong()) {
             System.out.println("Enter a valid numeric value!");
-            sc.close();
+            sc.close( );
             return;  // Exit if input is invalid
         }
 
